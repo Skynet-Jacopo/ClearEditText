@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\90516\\Desktop\\ClearEditText1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_edittext_bg.xml",
+        "source": "C:\\Users\\90516\\Desktop\\ClearEditText1\\app\\src\\main\\res\\drawable\\login_edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\90516\\Desktop\\ClearEditText1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_selector.xml",
+        "source": "C:\\Users\\90516\\Desktop\\ClearEditText1\\app\\src\\main\\res\\drawable\\delete_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\90516\\Desktop\\ClearEditText1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_button_bg.xml",
+        "source": "C:\\Users\\90516\\Desktop\\ClearEditText1\\app\\src\\main\\res\\drawable\\login_button_bg.xml"
+    }
+]
